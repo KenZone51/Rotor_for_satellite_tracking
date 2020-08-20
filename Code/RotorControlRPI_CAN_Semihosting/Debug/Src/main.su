@@ -1,0 +1,9 @@
+stm32f072rb.h:5553:22:__NVIC_EnableIRQ	16	static
+stm32f072rb.h:5569:22:__NVIC_SetPriority	24	static
+function.h:70:6:canFilterConfig	8	static
+function.h:224:6:canInit	8	static
+function.h:338:6:canEnableIRQ	8	static
+function.h:344:6:receiveRemoteFrame	24	static
+function.h:386:6:sendDataFrame	16	static
+function.h:437:6:CEC_CAN_IRQHandler	32	static
+main.c:17:5:main	8	static
